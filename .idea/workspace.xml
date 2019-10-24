@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b27a6d0-60f5-4b34-beda-5f1e16bb171d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/aulas/aula11/Ex01CalculaSalario2.java" />
+        <option value="$PROJECT_DIR$/src/aulas/aula11/Ex01ReutilizandoVariaveis.java" />
+        <option value="$PROJECT_DIR$/src/aulas/aula12/Ex01TestandoVariaveis.java" />
+        <option value="$PROJECT_DIR$/src/aulas/aula13/Ex01Condicionais.java" />
+        <option value="$PROJECT_DIR$/src/aulas/aula14/Ex01Condicionais2.java" />
+        <option value="$PROJECT_DIR$/src/aulas/aula15/Ex01CalculaSalarioComCondicional.java" />
+        <option value="$PROJECT_DIR$/src/aulas/aula15/Ex02CalculaSalarioComCondicional.java" />
+        <option value="$PROJECT_DIR$/src/aulas/aula16/Ex01NumeroImparOuPar.java" />
+        <option value="$PROJECT_DIR$/src/aulas/aula17/Ex01ImpostoDeRenda.java" />
+        <option value="$PROJECT_DIR$/src/aulas/aula18/Ex01ImpostoDeRenda.java" />
+        <option value="$PROJECT_DIR$/src/aulas/aula18/Ex01IfElseTorneioNatacao.java" />
+        <option value="$PROJECT_DIR$/src/aulas/aula22/ExValidacaoUsuarioUsandoOu.java" />
+        <option value="$PROJECT_DIR$/src/aulas/aula24/Ex01CadastroMilitarIfElseUsandoOu.java" />
+        <option value="$PROJECT_DIR$/src/aulas/aula24/Ex02CadastroMilistarIfElseUsandoOu.java" />
+        <option value="$PROJECT_DIR$/src/aulas/aula23/Ex02CadastroMilistarIfElseUsandoOu.java" />
+        <option value="$PROJECT_DIR$/src/aulas/aula24/Ex01DiasDaSemanaIfElse.java" />
+        <option value="$PROJECT_DIR$/src/aulas/estruturascondicioanis/ifelse/aula24/Ex01DiasDaSemanaIfElse.java" />
+        <option value="$PROJECT_DIR$/src/aulas/estruturascondicioanis/switchcase/aula26/Ex01DiasDaSemanaSwicthCase.java" />
+        <option value="$PROJECT_DIR$/src/aulas/estruturascondicioanis/switchcase/aula27/Ex01TipoDeContaSwitchCase.java" />
+        <option value="$PROJECT_DIR$/src/aulas/laçosderepeticao/whiile/aula28/Ex01Intro.java" />
+        <option value="$PROJECT_DIR$/src/aulas/laçosderepeticao/whiile/aula29/Ex01ImprimindoImpares.java" />
+        <option value="$PROJECT_DIR$/src/aulas/laçosderepeticao/whiile/aula30/Ex01Menu.java" />
+        <option value="$PROJECT_DIR$/src/aulas/laçosderepeticao/whiile/aula31/Ex01Login.java" />
+        <option value="$PROJECT_DIR$/src/aulas/laçosderepeticao/whiile/aula32/Ex01DoWhile.java" />
+        <option value="$PROJECT_DIR$/src/aulas/laçosderepeticao/foor/aula33/Ex01IntroducaoFor.java" />
+        <option value="$PROJECT_DIR$/src/aulas/laçosderepeticao/fors/aula34/Ex01NumerosReais.java" />
+        <option value="$PROJECT_DIR$/src/aulas/laçosderepeticao/fors/aula33/Ex01IntroducaoFor.java" />
+        <option value="$PROJECT_DIR$/src/aulas/laçosderepeticao/fors/aula35/Ex01ForAninhado.java" />
+        <option value="$PROJECT_DIR$/src/aulas/laçosderepeticao/fors/aula34/Ex02Tabuada.java" />
+        <option value="$PROJECT_DIR$/src/aulas/arrays/Ex01IntroArrays.java" />
+        <option value="$PROJECT_DIR$/src/aulas/arrays/aula37/Ex01IntroArrays.java" />
+        <option value="$PROJECT_DIR$/src/aulas/arrays/aula38/Ex01ArraysFor.java" />
+        <option value="$PROJECT_DIR$/src/aulas/arrays/aula38/Ex02ArraysLenght.java" />
+        <option value="$PROJECT_DIR$/src/aulas/arrays/aula38/Ex02ArraysForLenght.java" />
+        <option value="$PROJECT_DIR$/src/aulas/arrays/aula39/Ex01MultiplicacaoArrays.java" />
+        <option value="$PROJECT_DIR$/src/aulas/arrays/aula39/Ex02MultiplicacaoArrays.java" />
+        <option value="$PROJECT_DIR$/src/aulas/arrays/aula40/Ex01ArraysMultiDimensionais.java" />
+        <option value="$PROJECT_DIR$/src/aulas/arrays/multidimensionais/aula40/Ex01ArraysMultiDimensionais.java" />
+        <option value="$PROJECT_DIR$/src/aulas/arrays/multidimensionais/aula42/Ex01DiagonalPrincipal.java" />
+        <option value="$PROJECT_DIR$/src/aulas/arrays/multidimensionais/aula41/Ex01ArraysMultiDimensionais2.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectId" id="1PfiM5lUoeLtdqNIfy2PqET1HJU" />
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="devdojo_logica_programacao" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="devdojo_logica_programacao" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="D:/programacaoweb-master" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="aulas.arrays.multidimensionais.aula41" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Ex01DiagonalPrincipal">
+    <configuration name="Ex01ArraysMultiDimensionais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aulas.arrays.multidimensionais.aula40.Ex01ArraysMultiDimensionais" />
+      <module name="devdojo_logica_programacao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aulas.arrays.multidimensionais.aula40.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex01ArraysMultiDimensionais2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aulas.arrays.multidimensionais.aula41.Ex01ArraysMultiDimensionais2" />
+      <module name="devdojo_logica_programacao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aulas.arrays.multidimensionais.aula41.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex01DiagonalPrincipal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aulas.arrays.multidimensionais.aula42.Ex01DiagonalPrincipal" />
+      <module name="devdojo_logica_programacao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aulas.arrays.multidimensionais.aula42.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex01MultiplicacaoArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aulas.arrays.unidimensional.aula39.Ex01MultiplicacaoArrays" />
+      <module name="devdojo_logica_programacao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aulas.arrays.unidimensional.aula39.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex02MultiplicacaoArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aulas.arrays.unidimensional.aula39.Ex02MultiplicacaoArrays" />
+      <module name="devdojo_logica_programacao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aulas.arrays.unidimensional.aula39.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ex01DiagonalPrincipal" />
+        <item itemvalue="Application.Ex01ArraysMultiDimensionais2" />
+        <item itemvalue="Application.Ex01ArraysMultiDimensionais" />
+        <item itemvalue="Application.Ex02MultiplicacaoArrays" />
+        <item itemvalue="Application.Ex01MultiplicacaoArrays" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b27a6d0-60f5-4b34-beda-5f1e16bb171d" name="Default Changelist" comment="" />
+      <created>1566271502427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566271502427</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27987897" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="DB Browser" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" x="28" y="512" width="1322" height="155" id="Run" order="2" type="WINDOWED" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="DB Execution Console" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Stack trace to UML" order="12" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="PlantUML" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="UML design tool window" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/aulas/variaveis/aula08/Ex01CalculadoraDiferencaIdade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aulas/variaveis/aula07/Ex02DeclarandoVariavel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aulas/variaveis/aula07/Ex01HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aulas/variaveis/aula11/Ex01ReutilizandoVariaveis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aulas/estruturascondicioanis/ifelse/aula13/Ex01Condicionais.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aulas/estruturascondicioanis/ifelse/aula14/Ex01Condicionais2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aulas/variaveis/aula10/Ex01CalculaSalario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aulas/variaveis/aula12/Ex01TestandoVariaveis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aulas/variaveis/aula10/Ex02CalculaSalario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aulas/estruturascondicioanis/ifelse/aula15/Ex01CalculaSalarioComCondicional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aulas/estruturascondicioanis/ifelse/aula15/Ex02CalculaSalarioComCondicional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aulas/estruturascondicioanis/ifelse/aula17/Ex01ImpostoDeRenda.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aulas/estruturascondicioanis/ifelse/aula16/Ex01NumeroImparOuPar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aulas/estruturascondicioanis/ifelse/aula18/Ex01IfElseTorneioNatacao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aulas/estruturascondicioanis/ifelse/aula22/ExValidacaoUsuarioUsandoOu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="104" selection-start-line="10" selection-start-column="104" selection-end-line="10" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aulas/estruturascondicioanis/ifelse/aula23/Ex02CadastroMilistarIfElseUsandoOu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="99" selection-start-line="7" selection-start-column="99" selection-end-line="7" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aulas/estruturascondicioanis/ifelse/aula23/Ex01CadastroMilitarIfElseUsandoOu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="24" column="61" selection-start-line="23" selection-start-column="10" selection-end-line="24" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aulas/estruturascondicioanis/ifelse/aula24/Ex01DiasDaSemanaIfElse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="23" column="42" lean-forward="true" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aulas/estruturascondicioanis/switchcase/aula26/Ex01DiasDaSemanaSwicthCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aulas/laçosderepeticao/whiles/aula30/Ex01Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aulas/laçosderepeticao/whiles/aula29/Ex01ImprimindoImpares.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aulas/laçosderepeticao/whiles/aula28/Ex01Intro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aulas/estruturascondicioanis/switchcase/aula27/Ex01TipoDeContaSwitchCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aulas/laçosderepeticao/whiles/aula31/Ex01Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aulas/laçosderepeticao/fors/aula33/Ex01IntroducaoFor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aulas/laçosderepeticao/fors/aula34/Ex01NumerosReais.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aulas/laçosderepeticao/fors/aula34/Ex02Tabuada.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aulas/laçosderepeticao/fors/aula35/Ex01ForAninhado.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aulas/laçosderepeticao/whiles/aula32/Ex01DoWhile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="42" lean-forward="true" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aulas/arrays/aula37/Ex01IntroArrays.java" />
+    <entry file="file://$PROJECT_DIR$/src/aulas/arrays/unidimensional/aula38/Ex01ArraysFor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aulas/arrays/unidimensional/aula39/Ex02MultiplicacaoArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aulas/arrays/unidimensional/aula39/Ex01MultiplicacaoArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="18" column="49" lean-forward="true" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aulas/arrays/unidimensional/aula38/Ex02ArraysForLenght.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="14" column="60" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aulas/arrays/multidimensionais/aula40/Ex01ArraysMultiDimensionais.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aulas/arrays/multidimensionais/aula42/Ex01DiagonalPrincipal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aulas/arrays/multidimensionais/aula41/Ex01ArraysMultiDimensionais2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
